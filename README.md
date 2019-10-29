@@ -20,3 +20,20 @@ Position: Senior Statistician
 Year: 2011-2019  
 
 
+### Research Interest
+
+* Statistical Data Analysis     
+* Sampling and Weighting      
+* Survey Methodology      
+* Experimental Design and Program Evaluation
+
+### Programming language
+
+* SAS   
+* R   
+* Python    
+* SPSS    
+* SQL
+* WesVar/Suddan     
+* HLM/WinBugs/LISREAL/AMOS      
+* STATA     
