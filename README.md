@@ -37,3 +37,6 @@ Year: 2011-2019
 * WesVar/Suddan     
 * HLM/WinBugs/LISREAL/AMOS      
 * STATA     
+
+
+[My Resume](https://github.com/weijia-ren/MyBio/blob/master/WEIJIA%20REN%20resume.pdf)
