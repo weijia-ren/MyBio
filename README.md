@@ -1,5 +1,5 @@
-## Welcome to My Pages
-
+## Welcome to My Pages        
+[My Resume](https://github.com/weijia-ren/MyBio/blob/master/WEIJIA%20REN%20resume.pdf)
 
 ### Background
 
@@ -39,4 +39,4 @@ Year: 2011-2019
 * STATA     
 
 
-[My Resume](https://github.com/weijia-ren/MyBio/blob/master/WEIJIA%20REN%20resume.pdf)
+
