@@ -1,0 +1,62 @@
+---
+title: "<center> Welcome to My Page </center>"
+#subtitle: "<center> Codes with Examples </center>"
+author: "<center> Weijia Ren </center>"
+#date: "<center> `r format(Sys.time(), '%B %d, %Y')` </center>"
+output: 
+  html_document:
+    toc: true # table of content true
+    toc_float: true
+    number_sections: true # if you want number sections at each table header
+    theme: united # many options for theme
+    highlight: tango  # specifies the syntax highlighting style
+
+---
+
+     
+[My Resume](https://github.com/weijia-ren/MyBio/blob/master/WEIJIA%20REN%20resume.pdf)
+
+# Background
+
+
+
+## Education 
+
+[The Ohio State University](https://www.osu.edu)   
+Major: Quantitative Research, Evaluation and Measurement (QREM)   
+Minor: Statistical data analysis  
+Degree: PhD, 2011
+
+[University of Kentucky](http://www.uky.edu)      
+Major: Social & Philosophical Studies in College of Education    
+Degree: MA, 2007
+
+## Work Experience 
+[Westat](http://www.westat.com)    
+Position: Senior Statistician    
+Year: 2011-2019  
+
+
+# Expertise
+
+
+## Research interest
+
+* Statistical Data Analysis     
+* Sampling and Weighting      
+* Survey Methodology      
+* Experimental Design and Program Evaluation
+
+## Programming language
+
+* SAS   
+* R   
+* Python    
+* SPSS    
+* SQL
+* WesVar/Suddan     
+* HLM/WinBugs/LISREAL/AMOS      
+* STATA     
+
+
+
