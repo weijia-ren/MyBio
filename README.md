@@ -1,94 +1,48 @@
-## Welcome to My Pages!        
-[My Resume](https://github.com/weijia-ren/MyBio/blob/master/WEIJIA%20REN%20resume.pdf)
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+  .col3 {
+    columns: 3 100px;
+    -webkit-columns: 3 100px;
+    -moz-columns: 3 100px;
+  }
+</style>
 
-## Background
 
-### Education: 
+## About me
+
+PhD Statistical research scientist with more than 10 years of experience with statistical data analysis an modeling, sampling and weighting, survey methodology, and experiemental design and program evaluation experience. Seeking opportunities to contribute to and grow with projects and groups that make positive impact on the society.  
+
+Location:  Washington, D.C. Metro Area        
+E-mail:    osurwj@gmail.com 
+
+[Resume](https://github.com/weijia-ren/MyBio/blob/master/WEIJIA%20REN%20resume.pdf)
+[Linkedin](https://www.linkedin.com/in/weijia-ren-6b885311/)
+
+<div class="col2">
+## Education 
 
 [The Ohio State University](https://www.osu.edu)   
 Major: Quantitative Research, Evaluation and Measurement (QREM)   
 Minor: Statistical data analysis  
-Degree: PhD, 2011
+Degree: PhD, 2011         
 
-[University of Kentucky](http://www.uky.edu)      
-Major: Social & Philosophical Studies in College of Education    
-Degree: MA, 2007
 
-### Work Experience 
+## Work Experience 
+
 [Westat](http://www.westat.com)    
 Position: Senior Statistician    
-Year: 2011-2019  
+Year: 2011-2019 
 
+</div>
 
-## Research Interest
+## Research Interest        
+![](myskill.png){width=400px}
 
-* **Statistical Data Analysis**
-    * Exploratory data analysis     
-    * Data wrangling      
-    * Data visualization      
-    * Missing data imputation   
-    * Hypothesis-driven statistical modeling      
-        * Generalized linear regression    
-        * Logistic regression    
-        * Multilevel (cross-sectional,longitudinal) regression    
-        * Cross-classified regression    
-        * Time series regression    
-        * Survival regression    
-    * Simulation      
-    * Feature selection (LASSO, stepwise regression)      
-    * Machine learning models       
-        * Classification trees      
-        * Random forest     
-        * Xgboost     
-        * Neural Network
-    * Natural language processing     
-* **Sampling and Weighting**      
-    * Probability sampling 
-        * Stratified sampling       
-        * Cluster sampling    
-        * Systematic sampling     
-        * Multi-stage complex sampling      
-            * Systematic probability proportional to size (PPS) sampling from a sorted list within explicit strata      
-            * Systematic probability proportional to size (PPS) sampling from a sorted list
-            * Systematic random sampling from a sorted list within explicit strata    
-            * Systematic random sampling from a sorted list       
-            * Simple random sampling within explicit strata     
-            * Simple random sampling    
-    * Non-probability sampling    
-        * Convenient sampling     
-        * Volutary(self-selected) sampling     
-        * Quota sampling (proportional/non-proportional)     
-        * Diversity sampling     
-        * Snowball sampling     
-    * Weighting     
-        * Base-weight     
-        * Nonresponse adjustment   
-        * Trimming      
-        * Calibration/Post-stratification     
-        * Replication     
-* **Survey Methodology & Psychometric property analysis**      
-    * Item analysis
-    * Reliability     
-        * Inter-item reliability (Cronbach alpha)     
-        * Inter-rater reliability (Kappa)     
-    * Validity    
-        * CFA     
-        * IRT     
-* **Experimental Design and Program Evaluation**      
-    * (Quasi) experimental design     
-    * Summative program evaluation      
-    * Formative program evaluation 
-
-## Programming language
-
-* SAS   
-* R   
-* Python    
-* SPSS    
-* SQL
-* WesVar/Suddan     
-* HLM/WinBugs/LISREAL/AMOS      
-* STATA     
-
+## Programming language         
+`SAS` `R` `Python` `SPSS` `SQL` `STATA` `WesVar` `Sudaan` `HLM` `WinBugs` `LISREAL` `AMOS` 
 
 # Projects
