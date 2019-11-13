@@ -22,7 +22,8 @@ E-mail:    osurwj@gmail.com
 [Resume](https://github.com/weijia-ren/MyBio/blob/master/WEIJIA%20REN%20resume.pdf)
 [Linkedin](https://www.linkedin.com/in/weijia-ren-6b885311/)
 
-<div class="col2">
+<div class="col2">        
+
 ## Education 
 
 [The Ohio State University](https://www.osu.edu)   
