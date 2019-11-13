@@ -6,7 +6,7 @@ PhD Statistical research scientist with more than 10 years of experience with st
 Location:  Washington, D.C. Metro Area        
 E-mail:    osurwj@gmail.com 
 
-[Resume](https://github.com/weijia-ren/MyBio/blob/master/WEIJIA%20REN%20resume.pdf)         
+[Resume](WEIJIA REN resume.pdf)         
 [Linkedin](https://www.linkedin.com/in/weijia-ren-6b885311/)
 
 ## Education 
