@@ -31,10 +31,20 @@ Year: 2011-2019
 ## Programming language         
 `SAS` `R` `Python` `SPSS` `SQL` `STATA` `WesVar` `Sudaan` `HLM` `WinBugs` `LISREAL` `AMOS` 
 
-# Projects
+## Projects
 
-# Data Visualization 
+### Data Visualization 
 
-## [Snake plot](https://weijia-ren.github.io/PIAAC-snake-plot/)
+#### [Snake/ranking plot](https://weijia-ren.github.io/PIAAC-snake-plot/)
+
+The "snake/ranking plot" can be used to visualize the estimates and the associated confidence interval of a group of observations/cases. The order could be sorted ascending or descending, and the whether the confidence intervals overlap or not would indicate whether the estimates from the two observations/cases are significantly different or not. 
+
+
+
+
+
+
+
+
 
 
