@@ -27,15 +27,15 @@ Year: 2011-2019
 ## Research Interest        
 ![](myskill.png)
 
-Sampling and weighting 
+-Sampling and weighting 
 
-Survey development and validation 
+-Survey development and validation 
 
-Data analysis 
+-Data analysis 
 
-Experimental design 
+-Experimental design 
 
-Data visualization 
+-Data visualization 
 
 
 
