@@ -27,15 +27,15 @@ Year: 2011-2019
 ## Research Interest        
 ![](myskill.png)
 
-### Sampling and weighting 
+Sampling and weighting 
 
-### Survey development and validation 
+Survey development and validation 
 
-### Data analysis 
+Data analysis 
 
-### Experimental design 
+Experimental design 
 
-### Data visualization 
+Data visualization 
 
 
 
@@ -43,7 +43,6 @@ Year: 2011-2019
 `SAS` `R` `Python` `SPSS` `SQL` `STATA` `WesVar` `Sudaan` `HLM` `WinBugs` `LISREAL` `AMOS` 
 
 ## Projects
-
 
 ### Data visualization 
 
@@ -53,7 +52,7 @@ The "snake/ranking plot" can be used to visualize the estimates and the associat
 
 [U.S. Adult Literacy Average Score](https://weijia-ren.github.io/PIAAC-snake-plot/)
 
-[Interviewer Falsification Detection](https://weijia-ren.github.io/PIAAC-snake-plot/)
+[Interviewer Falsification Detection](https://weijia-ren.github.io/Falsification-detection/)
 
 
 
