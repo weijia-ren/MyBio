@@ -1,7 +1,7 @@
 
 ## About me
 
-PhD Statistical research scientist with more than 10 years of experience with statistical data analysis an modeling, sampling and weighting, survey methodology, and experimental design and program evaluation experience. Seeking opportunities to contribute to and grow with projects and groups that make positive impact on the society.  
+PhD Statistical research scientist with more than 10 years of experience with statistical data analysis an modeling, sampling and weighting, survey methodology, experimental design and program evaluation experience. Seeking opportunities to contribute to and grow with projects and groups that make positive impact on the society.  
 
 Location:  Washington, D.C. Metro Area        
 E-mail:    osurwj@gmail.com 
@@ -44,13 +44,16 @@ Year: 2011-2019
 
 ## Projects
 
-### [Snake/ranking plot](https://weijia-ren.github.io/PIAAC-snake-plot/)
 
-The "snake/ranking plot" can be used to visualize the estimates and the associated confidence interval of a group of observations/cases. The order could be sorted ascending or descending, and the whether the confidence intervals overlap or not would indicate whether the estimates from the two observations/cases are significantly different or not. 
+### Data visualization 
 
+#### Snake/ranking plot
 
+The "snake/ranking plot" can be used to visualize the estimates and the associated confidence interval of a group of observations/cases in a specific order. The order could be sorted ascending or descending. This is a useful plot to visualize estimates of a group.  
 
+[U.S. Adult Literacy Average Score](https://weijia-ren.github.io/PIAAC-snake-plot/)
 
+[Interviewer Falsification Detection](https://weijia-ren.github.io/PIAAC-snake-plot/)
 
 
 
