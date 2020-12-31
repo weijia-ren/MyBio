@@ -50,12 +50,15 @@ Year: 2011-2019
 
 The "snake/ranking plot" can be used to visualize the estimates and the associated confidence interval of a group of observations/cases in a specific order. The order could be sorted ascending or descending. This is a useful plot to visualize estimates of a group.  
 
-[U.S. Adult Literacy Average Score](https://weijia-ren.github.io/PIAAC-snake-plot/)
+[U.S. Adult Literacy Skill Level](https://weijia-ren.github.io/PIAAC-snake-plot/)
 
 [Interviewer Falsification Detection](https://weijia-ren.github.io/Falsification-detection/)
 
 
+### Variable selection & data reduction
 
 
+In statistical modeling, it is crucial to have consistent variables that are most relevant to the outcome variable(s) of interest in the model. With the increasing richness of data from multiple sources, the size of the pool of potential variables is escalating. Some variables, however, could provide redundant information, add noise to the estimation, or waste the degree of freedom in the model. Therefore, variable selection is needed as a parsimonious process that aims to identify a minimal set of predictors for maximum predictive power. 
 
+[Variable selection method for complex models](https://weijia-ren.github.io/Variable-selection-SAE/)
 
